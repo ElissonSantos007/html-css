@@ -67,7 +67,7 @@
 
 <a href="https://elissonsantos007.github.io/html-css/desafios/desafio010/index.html">Executar o desafio 010</a>
 
-<a href="https://elissonsantos007.github.io/html-css/desafios/desafio010.1/index.html">Executar o desafio 010.1</a>
+<a href="https://elissonsantos007.github.io/html-css/desafios/desafio010.1/android.html">Executar o desafio 010.1</a>
 
 <a href="https://elissonsantos007.github.io/html-css/desafios/desafio011/index.html">Executar o desafio 011</a>
 
