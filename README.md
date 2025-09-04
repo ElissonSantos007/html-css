@@ -13,7 +13,9 @@
 
  <a href="https://elissonsantos007.github.io/html-css/exercicios/ex006/index.html">Executar o exercicio 006</a>
 
- <a href="https://elissonsantos007.github.io/html-css/exercicios/ex007/index.html">Executar o exercicio 007</a>
+ <a href="https://elissonsantos007.github.io/html-css/exercicios/ex007/html4.html">Executar o exercicio 007a</a>
+
+ <a href="https://elissonsantos007.github.io/html-css/exercicios/ex007/html5.html">Executar o exercicio 007b</a>
 
  <a href="https://elissonsantos007.github.io/html-css/exercicios/ex008/index.html">Executar o exercicio 008</a>
 
