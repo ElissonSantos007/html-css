@@ -55,6 +55,8 @@
 
  <a href="https://elissonsantos007.github.io/html-css/exercicios/ex025/form001.html">Executar o exercicio 025</a>
 
+ <a href="https://elissonsantos007.github.io/html-css/exercicios/ex026/mq002/index.html">Executar o exercicio 026</a>
+
  <a href="https://elissonsantos007.github.io/html-css/desafios/desafio001/index.html">Executar o desafio 001</a>
 
  <a href="https://elissonsantos007.github.io/html-css/desafios/desafio002/index.html">Executar o desafio 002</a>
