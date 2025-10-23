@@ -21,6 +21,7 @@ header > h1 {
 
 svg {
     /*background-color: rgb(48, 48, 48);*/
+    margin: auto;
     color: white;
     display: block;
     text-align: center;
