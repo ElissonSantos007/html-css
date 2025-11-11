@@ -6,8 +6,8 @@
 
 .conteiner {
     display: grid;
-    grid-template-rows: repeat(10, 50px);
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 80px 50px 200px 50px;
+    grid-template-columns: 200px 100px;
 }
 
 .area1 {
@@ -17,7 +17,7 @@
     color: rgb(30, 30, 241);
     text-align: center;
     border: dashed;
-    grid-area: 1 / 1 / 3 / 5;
+    grid-area: 1 / 1 / 2 / 5;
 }
 
 .area2 {
@@ -27,7 +27,7 @@
     color: rgb(30, 30, 241);
     text-align: center;
     border: dashed;
-    grid-area: 3 / 1 / 4 / 5;
+    grid-area: 2 / 1 / 3 / 5;
 }
 
 .area3 {
@@ -37,7 +37,7 @@
     color: rgb(30, 30, 241);
     text-align: center;
     border: dashed;
-    grid-area: 4 / 1 / 9 / 4;
+    grid-area: 3 / 1 / 4 / 4;
 }
 
 .area4 {
@@ -47,7 +47,7 @@
     color: rgb(30, 30, 241);
     text-align: center;
     border: dashed;
-    grid-area: 4 / 4 / 9 / 5;
+    grid-area: 3 / 2 / 4 / 5;
 }
 
 .area5 {
@@ -57,5 +57,5 @@
     color: rgb(30, 30, 241);
     text-align: center;
     border: dashed;
-    grid-area: 9 / 1 / 10 / 5;
+    grid-area: 4 / 1 / 5 / 5;
 }
